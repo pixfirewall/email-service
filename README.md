@@ -58,7 +58,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Amir Hodaee](pixozeud@gmail.com)
+- Author - [Amir Hodaee](mailto:pixozeud@gmail.com)
 
 ## License
 

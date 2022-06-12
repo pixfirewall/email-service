@@ -25,6 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This code is a simple E-mail service based on kafka and nest.js
 
 ## Installation
 

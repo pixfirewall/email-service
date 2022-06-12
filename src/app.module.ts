@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { HeathModule } from './heath/heath.module';
+import { KafkaModule } from './kafka/kafka.module';
 
 @Module({
   imports: [
@@ -8,6 +9,7 @@ import { HeathModule } from './heath/heath.module';
       isGlobal: true,
     }),
     HeathModule,
+    KafkaModule,
   ],
 })
 export class AppModule {}
